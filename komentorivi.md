@@ -18,3 +18,5 @@ komento | selitys
 `mkdir` | luo kansion
 `ls' tai 'dir` | tulostaa ruudulle tiedostolistaukset
 `echo` | luo tyhjän tekstitiedoston
+
+testi
