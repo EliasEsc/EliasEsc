@@ -19,4 +19,4 @@ komento | selitys
 `ls' tai 'dir` | tulostaa ruudulle tiedostolistaukset
 `echo` | luo tyhjän tekstitiedoston
 
-testi2
+testi3
